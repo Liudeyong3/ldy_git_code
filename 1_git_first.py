@@ -8,7 +8,9 @@ def main():
     print("this is the first git project")
 
 # this is the second try
+# this is the third try
 
+print(3)
 if __name__ == "__main__":
     main()
 
