@@ -4,15 +4,16 @@
 # @Author    :Deyong Liu
 
 
+import sys
+
+
 def main():
+
+    a = sys.argv
+    print(a)
+
     print("this is the first git project")
 
-# this is the second try
-# this is the third try
-# this tis the fourth try
-
-print(3)
-print(4)
 if __name__ == "__main__":
     main()
 
